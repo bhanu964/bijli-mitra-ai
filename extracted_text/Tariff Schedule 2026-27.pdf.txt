@@ -1,0 +1,576 @@
+=== Page 1 ===
+Abstract of the Retail Supply Tariff for FY 2026-27
+
+Appendix A
+
+APPENDIX A: ABSTRACT OF THE RETAIL SUPPLY TARIFF FOR FY 2026-27
+
+(Applicable with effect from 01.04.2026 to 31.03.2027 in respect of the two Distribution
+Licensees (TGSPDCL & TGNPDCL) and the Co-operative Electric Supply Society, Sircilla
+
+in the State of Telangana).
+
+Chinn Fixed/ Demand Charge Charnes
+Unit | Rs. /Unit/month (Rs. /Unit)
+Low Tension
+LT-I: Domestic
+LT-I (A): Up to 100 units/month
+0-50 kW 10 1.95
+51-100 kW 10 3.10
+LT-I (B) (i): Above 100 units/month & up to 200 units/month
+0-100 kW 10 3.40
+101-200 kW 10 4.80
+LT-I (B) (ii): Above 200 units/month
+0-200 kW 10 5.10
+201-300 kW 10 7.70
+301-400 W 10 9.00
+401-800 kW 10 9.50
+Above 800 units kW 50 10.00
+LT-II: Non-Domestic/Commercial/Others
+LT-II (A): Up to 50 units/month
+0-50 W 30 7.00
+LT-II (B): Above 50 units/month
+0-100 kW 70 8.50
+101-300 WwW 70 9.90
+301-500 kW 100 10.40
+Above 500 kW 100 11.00
+LT-II (C): Advertising Hoardings kW 150 13.00
+LT-II (D): Haircutting salons up to 200 units/month
+0-50 kW 60 5.30
+51-100 kW 60 6.60
+101-200 kW 60 7.50
+LT-IL: Industry
+Industries kW 100 7.70
+Seasonal Industries (off- season) kW 100 8.40
+Pisciculture/Prawn culture kW 50 6.20
+Sugarcane crushing kW 50 6.20
+Poultry farms kW 65 7.00
+Mushroom, Rabbit, Sheep and Goat farms kW 100 7.30
+
+kW/100 HP.
+
+For Rice Mills under LT-IlI Industry, the upper limit of Contract Load shall be 93 kW/125 HP;
+For the remaining consumers under LT-III Industry, the upper limit of Contract Load shall be 75
+
+TGERC Retail Supply Tariff Order: FY 2026-27
+
+Page | 289
+
+
+
+=== Page 2 ===
+Abstract of the Retail Supply Tariff for FY 2026-27 Appendix A
+Fixed/ Demand Charge Energy
+Category Charge
+Unit | Rs. /Unit/month (Rs. /Unit)
+LT-IV: Cottage Industries & Agro Based Activities
+LT-IV(A): Cottage Industries kW 20 4.00
+LT-IV(B): Agro Based Activities kW 20 4.00
+
+be 20 HP.
+
+For LT-IV(B) Agro Based Activity, the upper limit of Connected Load for Mushroom production,
+Rabbit farming, Sheep farming, Goatfarming, and Dairy farming activities shall be 25 HP; For the
+remaining consumers under LT- IV(B) Agro Based Activity, the upper limit of Connected Load shall
+
+LT-V: Agricultural
+
+LT-V(A): Agricultural (DSM Measures mandatory)
+Corporate Farmers HP - 2.50
+Other than Corporate Farmers HP - 0.00
+LT-V (B): Others
+Horticulture Nurseries with CL up to 20 HP HP 20 4.00
+LT-VI: Street Lighting & PWS Schemes
+LT-VI (A): Street Lighting
+Panchayats kW 32 7.10
+Municipalities kW 32 7.60
+Municipal Corporations kW 32 8.10
+LT-VI(B): PWS Schemes
+Panchayats HP 32/HP subject to a 6.00
+minimum of
+Rs.50/month
+Municipalities HP 32/HP subject to a 7.10
+minimum of
+Rs.100/month
+Municipal Corporations HP 32/HP subject to a 7.60
+minimum of
+Rs.100/month
+LT-VII: General
+LT-VII (A): General Purpose kW 21 8.30
+LT-VII (B): Wholly Religious Places kW 30 5.00
+LT-VIII: Temporary Supply kW 21 12.00
+For LT-VIH Temporary Supply, the consumer shall be required to deposit in advance the
+estimated consumption charges along with other charges as stipulated in the Tariff Order.
+LT-IX: EV Charging Stations kw 0 6.00
+High Tension
+HT-I (A): Industry General
+IL kV kVA 500 7.65
+33 kV kVA 500 TAS
+132 kV and above kVA 500 6.65
+HT-I (A): Lights and Fans
+IL kV - 7.65
+33 kV - 7.15
+
+TGERC Retail Supply Tariff Order: FY 2026-27
+
+Page | 290
+
+
+
+=== Page 3 ===
+Abstract of the Retail Supply Tariff for FY 2026-27 Appendix A
+Fixed/ Demand Charge Energy
+Category Charge
+Unit | Rs. /Unit/month (Rs. /Unit)
+
+132 kV and above - 6.65
+HT-I (A): Poultry Farms
+
+11kV kVA 500 7.65
+
+33 kV kVA 500 7.15
+HT-I (A): Colony Consumption
+
+11 kV - 7.30
+
+33 kV - 7.30
+
+132 kV and above - 7.30
+HT-I (A): Seasonal Industries
+
+ILkV kVA 500 8.60
+
+33 kV kVA 500 7.90
+
+132 kV and above kVA 500 7.70
+HT-I (A): Optional Category with CMD Up to 150 kVA
+
+1LkV kVA 100 8.00
+HT-I (B): Ferro Alloys
+
+11 kV kVA 500 7.65
+
+33 kV kVA 500 7.15
+
+132 kV and above kVA 500 6.65
+HT-Il (A): Others
+
+11 kV kVA 500 8.80
+
+33 kV kVA 500 8.00
+
+132 kV and above kVA 500 7.80
+HT-II (B): Wholly Religious Places
+
+IL kV kVA 285 5.00
+
+33 kV kVA 285 5.00
+
+132 kV and above kVA 285 5.00
+HT-III: Airports, Railway Stations and Bus Stations
+
+11 kV kVA 500 8.50
+
+33 kV kVA 500 7.85
+
+132 kV and above kVA 500 7.45
+HT-IV (A): Irrigation and Agriculture
+
+11 kV kVA 300 6.30
+
+33 kV kVA 300 6.30
+
+132 kV and above kVA 300 6.30
+HT-IV(B): CPWS Schemes
+
+ILkV kVA - 6.10
+
+33 kV kVA - 6.10
+
+132 kV and above kVA - 6.10
+HT-V (A): Railway Traction kVA 500 5.05
+HT-V(B): HMR kVA 500 4.95
+HT-VI: Townships & Residential Colonies
+
+11 kV kVA 285 7.30
+
+33 kV kVA 285 7.30
+
+TGERC Retail Supply Tariff Order: FY 2026-27
+
+Page | 291
+
+
+
+=== Page 4 ===
+Abstract of the Retail Supply Tariff for FY 2026-27 Appendix A
+Fixed/ Demand Charge Energy
+Category Charge
+Unit | Rs. /Unit/month (Rs. /Unit)
+132 kV and above kVA 285 7.30
+HT-VII: Temporary Supply
+11 kV kVA 500 11.80
+33 kV kVA 500 11.00
+132 kV and above kVA 500 10.80
+
+For HT-VII Temporary Supply, the consumer shall be required to deposit in advance the
+estimated consumption charges along with other charges as stipulated in the Tariff Order.
+
+HT-VIII: RESCOs
+
+IL kV - 4.77
+HT-IX: EV Charging Stations
+
+ILkV kVA 100 6.00
+
+33 kV kVA 100 6.00
+
+132 kV and above kVA 100 6.00
+
+TERMS AND CONDITIONS
+
+1. Time of Day (TOD) Tariffs/Incentives:
+
+Applicability:
+
+The following Time of Day (TOD) Tariffs are applicable for categories viz.,
+
+HT-I(A) Industry General;
+
+HT-I(A) Poultry Farms;
+HT-II(A) Others;
+
+HT-II(B) Wholly Religious Places;
+
+HT-III Airports, Railway stations and Bus Stations
+HT-IX Electric Vehicle Charging Stations;
+
+ToD Tariff over Retail Supply
+
+Description During the Period Energy Charges for FY 2026-27
+6 am to 10 am
+[Time of Day (TOD)Tariff and Plus Rs.1.50/unit
+
+6 pm to 10 pm
+
+[Time of Day (TOD)Tariff
+
+10 am to 6 pm
+
+Less Rs. 0.50/unit
+
+Note: Normal energy charges shall be applicable for time slot of 10 pm to 6 am.
+
+Fuel Surcharge Adjustment (FSA)/Fuel Cost Adjustment (FCA) will be extra as per
+
+Regulation No.2 of 2023 as amended from time to time.
+
+The Tariffs are exclusive of the Electricity Duty payable as per the provisions of the
+
+Telangana State Electricity Duty Act, 1939 as amended from time to time.
+
+TGERC Retail Supply Tariff Order: FY 2026-27
+
+Page | 292
+
+
+
+=== Page 5 ===
+Abstract of the Retail Supply Tariff for FY 2026-27
+
+Appendix A
+
+4. Voltage of Supply: The voltage at which supply has to be availed by the consumers as per
+
+the GTCS notified by the Commission and as amended from time to time.
+
+5. Additional Charges for Maximum Demand exceeding the Contracted Demand
+
+In case, in any month the Recorded Maximum Demand (RMD) of the consumer exceeds
+
+his Contracted Demand with the Licensee, the consumer shall pay the following charges
+
+on excess demand recorded and on the entire energy consumed.
+
+RMD over CMD
+
+Demand charges on excess
+demand
+
+Energy charges on full
+energy
+
+100 to 120%
+
+2 times of normal charge
+
+Normal
+
+Above 120% and up to
+200%
+
+2 times of normal charge
+
+1.15 times of normal charge
+
+More than 200%
+
+2 times of normal charge
+
+1.20 times of normal charge
+
+In the case of HT-V(A) and HT-V(B): Railway Traction and HMR, the energy charges shall
+
+be computed at 1.05 times the normal charges on the entire consumption, if RMD exceeds
+
+120% of Contracted Demand.
+
+6. Minimum Charges
+
+LT-categories
+Category Applicable Rates
+LT-I(A) Domestic Contracted Load of 1000 Watts andbelow
+Single Phase :
+LT-I(B)(i) Contracted Load of above 1000Watts
+Single Phase -
+LT-I(B)Gi) Three Phase -
+LT-II(A) & Non-Domestic/ Single Phase Rs.50/month
+1(B) Commercial/ Others Three Phase Rs.100/month
+LT-II(C) Advertisement Hoardings Rs.300/month
+LT-II(D) Single Phase Rs.65/mont
+Three Phase Rs.200/mont
+LT-VI(A) Street Lighting Panchayats Rs.2/point/month
+Municipalities & Municipal | Rs.6/point/month
+Corporations
+LT-VII(A) General Purpose Single Phase Rs.50/mont!
+Three Phase Rs.150/month
+LT-VII Temporary Supply Rs.125 per kW or part thereof of the contracted load
+for first 30 days or part thereof and for every
+subsequent period of 15 days or part thereof a charge
+of Rs.75 per kW.
+LT-IX EV Chargingstation Single Phase Rs.65/month
+Three Phase Rs.200/month
+TGERC Retail Supply Tariff Order: FY 2026-27 Page | 293
+
+
+
+=== Page 6 ===
+Abstract of the Retail Supply Tariff for FY 2026-27 Appendix A
+
+HIT Categories
+
+Category Applicable Rates
+
+Billing Demand shall be maximum demand recorded|
+during the month or 80% of the contracted demand|
+whichever is higher except HT-IV(A) and HT-VI.
+
+For HT-IV(A) (Lift Irrigation), during the operational
+months July to November, Billing Demand shall be|
+maximum demand recorded during the month or 80% of
+Billing Demand the contracted demand whichever is higher and, during|
+the non-operational months December to June, Billing
+Demand shall be maximum demand recorded during the
+month or 25% of the contracted demand whichever is
+higher.
+
+For HT-VI (Township and Residential Colonies), the|
+billing demand is Actual Demand Recorded).
+
+Minimum Energy Charges
+
+HT-I(A) Industry-General 50 KVAh per kVA of billing demand per month
+HT-I(B) Ferro Alloy units 50 kVAh per kVA of billing demand per month
+HT-II(A) Others 25 kVAh per kVA of billing demand per month
+HT-II(B) Wholly Religious 25 kVAh per kVA of billing demand per month
+Places
+HT-IIL Airports, Railway 50 kVAh per kVA of billing demand per month
+stations and Bus
+stations
+HT-V(A) & Railway Traction & 32 kVAh per kVA of Contracted Demand per month
+V(B) HMR
+HT-VI Townships & Billing Demand shall be Actual Recorded Demand.
+Residential Colonies 25 kVAh per kVA of contracted demand per month.
+HT-IX EV Charging station 25 kVAh per kVA of contracted demand per month.
+7. Customer Charges
+Consumer Category Rs. / Month
+Low Tension
+ILT-I: Domestic (units/month)
+0-50 40
+51-100 70
+101-200 90
+201-300 100
+301-400 120
+401-800 140
+Above 800 units 160
+ILT-II(A&B): Non-Domestic/Commercial/Others (units/month)
+0-50 50
+51-100 90
+101-300 105
+301-500 120
+Above 500 units 160
+\LT-II(C): Advertisement Hoardings 160
+
+TGERC Retail Supply Tariff Order: FY 2026-27 Page | 294
+
+
+=== Page 7 ===
+Abstract of the Retail Supply Tariff for FY 2026-27
+
+Appendix A
+
+Consumer Category Rs. / Month
+
+|LT-I1(D) Haircutting Salons with consumption up to 200 units per month
+
+0-50 45
+
+51-100 55
+
+101-200 65
+LT-III: Industry up to 20 HP 100
+LT-III: Industry 21-50 HP 350
+LT-III: Industry 51-125 HP 1,200
+LT-IV: Cottage Industries 50
+LT-V: Agriculture 30
+LT-VI: Street Lighting & PWS 120
+LT-VII: General Purpose 100
+LT-VIII: Temporary Supply 100
+LT-IX: EV Charging station 120
+
+High Tension
+
+IHT consumers at 11 kV 2,000
+IHT consumers at 33 kV 3,500
+IHT consumers at 132 kV and above 5,000
+
+8. Delayed Payment Surcharge (DPS)
+LT-Category
+
+a. In the case of LT-I(A), LT-I(B), LT-II(A), LT-I[(D), LT-IV and LT-V(B), if payment
+
+is made after due date, the consumers are liable to pay, Delayed Payment Surcharge
+
+(DPS) per month on the bill amount at the rates given in table below:
+
+LT-I(A)
+
+Rs.10 per month
+
+LT-I(B), L-I(A), LT-I(D), LI-IV and LT-V(B)
+
+Rs.25 per month
+
+b. In case of LT-II(B), LT-II(C), LT-II, LT-VI, LT-VII, and LT-IX the Licensee shall
+
+levy Delayed Payment Surcharge (DPS) on the bill amount at the rate of 5
+
+paise/Rs.100/day calculated from the due date mentioned on the bill, up to the date of
+
+payment or Rs.150 whichever is higher. In case of grant of instalments, the Licensees
+
+shall levy interest at the rate of 18% per annum on the outstanding amounts
+
+compounded annually and the two (DPS and interest) shall not be levied at the same
+
+time.
+
+HT Category
+
+The Licensees shall charge the Delayed Payment Surcharge (DPS) per month on the bill
+
+amount at the rate of 5 paise/Rs.100/day or Rs.550 whichever is higher. In case of grant of
+
+instalments, the Licensee shall levy interest at the rate of 18% per annum on the outstanding
+
+amounts, compounded annually and the two charges shall not be levied at the same time.
+
+TGERC Retail Supply Tariff Order: FY 2026-27
+
+Page | 295
+
+
+=== Page 8 ===
+Abstract of the Retail Supply Tariff for FY 2026-27 Appendix A
+
+9. Reconnection Charges
+
+Category Charges (Rs.)
+Low Tension services
+LT-I(A) 25
+Overhead LT services 715
+U.G. services 200
+High Tension service
+11 kV 1,000
+33 kV 2,000
+132 kV and above 3,000
+10. Testing Charges
+Installation LT (Rs.) HT (Rs.)
+The first test and inspection of a new installation or of an Nil Nil
+extension to an existing installation
+Charges payable by the consumer in advance for each 20 200
+
+subsequent test and/or inspection if found necessary owing
+to any fault in the installation or to non-compliance of the
+conditions of supply
+
+Meter
+
+A.C. Single Phase Energy meter 100
+
+A.C. Three Phase Energy meter 300
+
+LT Tri Vector meter 2,000
+
+11 kV 3,000
+
+33 kV 3,000
+
+132 kV and above 3,000
+
+Transformer oil
+
+Each sample of oil Rs. 150 per sample
+
+11. Supervision/ Inspection and Checking Charges
+
+Category Charges (Rs.)
+For LT-I(A) Domestic 100
+For LT-I(B) Domestic 100
+LT-V Agricultural 100
+For all other LT Categories 100
+For all HT Categories 600
+
+12. Low Power Factor Charges: For all consumer categories where kVAh billing is done, no
+Low Power Factor surcharge shall be levied.
+13. Capacitor Surcharge: LT consumers = (except LT-I Domestic) having
+
+connected loads mentioned in table below shall pay capacitor surcharge (as per rules in
+
+vogue) at the rate of 25% of the billed amount, if capacitors are found defunct.
+Category Connected Load
+LT-II and LT-VII(A) <10kW
+LT-III and LT-VI(B) < 13 HP
+
+TGERC Retail Supply Tariff Order: FY 2026-27 Page | 296
+
+
+=== Page 9 ===
+Abstract of the Retail Supply Tariff for FY 2026-27 Appendix A
+
+14. Fixed Charges — Seasonal Industries:
+
+LT-III: Rs.100/kW/month on 30% contracted load.
+HT: Demand Charges — 30% of CMD or recorded demand whichever is higher.
+
+15. Temporary Supply for LT and HT Consumers: Temporary supply can be given initially
+for a period up to one year as per the tariff applicable under temporary supply category.
+After the expiry of one year, the consumer is at liberty to seek further extension.
+
+16. Green Tariff: Green Tariff of Rs. 0.66/unit which is over and above the normal tariff of
+respective category shall be levied on the energy consumption for the period for which the
+consumer as opted for Green Tariff. The Green Tariff is extended to all categories of
+
+consumers both HT & LT, who opt for it.
+
+TGERC Retail Supply Tariff Order: FY 2026-27 Page | 297

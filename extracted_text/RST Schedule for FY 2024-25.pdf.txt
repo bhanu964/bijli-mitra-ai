@@ -1,0 +1,575 @@
+=== Page 1 ===
+Appendix-A
+
+Abstract of the Retail Supply Tariff for FY 2024-25
+
+(Applicable with effect from 01.11.2024 to 31.03.2025 in respect of the two Distribution
+Licensees (TGSPDCL & TGNPDCL) in the Telangana State and the Co-operative Electric
+Supply Society, Sircilla)
+
+Category Fixed/Demand Charge Energy Charge
+Unit Rs./Unit/month (Rs./Unit)
+
+Low Tension
+LT-I: Domestic
+LT-I(A): Upto 100 units/month
+
+0-50 kW 10 1.95
+
+51-100 kW 10 3.10
+LT-I(B)(i): Above 100 units/month & up to 200 units/month
+
+0-100 kW 10 3.40
+
+101-200 kW 10 4.80
+LT-I(B)(ii): Above 200 units/month
+
+0-200 kW 10 5.10
+
+201-300 kW. 10 7.70
+
+301-400 kW. 10 9.00
+
+401-800 kW 10 9.50
+
+Above 800 units kW 50 10.00
+
+LT-ll: Non-Domestic/Commercial
+LT-II(A): Upto 50 units/month
+
+0-50 kW 30 7.00
+LT-II(B): Above 50 units/month
+0-100 kw 70 8.50
+101-300 kW 70 9.90
+301-500 kW 100 10.40
+Above 500 kw 100 11.00
+LT-Il(C): Advertisement Hoardings | kW. 150 13.00
+LT-II(D): Haircutting salons consuming upto 200 units/month
+0-50 kW 60 5.30
+51-100 kW 60 6.60
+101-200 kw 60 7.50
+LT-Ill: Industry
+Industries kw 100 7.70
+Seasonal Industries (off- season) kw 100 8.40
+Pisciculture/Prawn culture kw 50 6.20
+Sugarcane crushing kw 50 6.20
+Poultry farms kW 65 7.00
+Mushroom, Rabbit, Sheep and kw 100 7.30
+Goat farms
+
+For Rice Mills under LT-III Industry, the upper limit of Contract Load shall be 93 kW/125 HP;
+For the remaining consumers under LT-III Industry, the upper limit of Contract Load shall be 75
+kW/100 HP.
+
+LT-IV: Cottage Industries
+LT-IV(A): Cottage Industries kw 20 4.00
+
+LT-IV(B): Agro Based Activities kw 20 4.00
+
+242
+
+
+=== Page 2 ===
+Category
+
+Fixed/Demand Charge
+
+Energy Charge
+
+Unit Rs./Unit/month
+
+(Rs./Unit)
+
+For LT-IV(B) Agro Based Activity, the upper limit of Connected Load for Sheep farming, Goat
+farming, and Dairy farming activities shall be 25 HP; For the remaining consumers under LT-
+1V(B) Agro Based Activity, the upper limit of Connected Load shall be 20 HP.
+
+LT-V: Agricultural
+
+LT-V(A): Agriculture (DSM Measures mandatory)
+HP.
+
+Corporate Farmers 2.50
+Other than Corporate Farmers HP 0.00
+LT-V(B): Others
+Horticulture Nurseries with CL HP 20 4.00
+upto 20 HP
+LT-VI: Street Lighting & PWS
+LT-VI(A): Street Lighting
+Panchayats kw 32 7.10
+Municipalities kw 32 7.60
+Municipal Corporations kw 32 8.10
+LT-VI(B): PWS Schemes
+Panchayats HP. 32/HP subject to a 6.00
+minimum of
+Rs.50/month
+Municipalities HP. 32/HP subject to a 7.10
+minimum of
+Rs.100/month
+Municipal Corporations HP. 32/HP subject to a 7.60
+minimum of
+Rs.100/month
+LT-VIl: General
+LT-VII(A): General Purpose kw 21 8.30
+LT-VII(B): Wholly Religious Places kw 30 5.00
+LT-VIIl: Temporary Supply kw 21 12.00
+
+estimated consumption charges aloni
+
+For LT-Vill Temporary Supply, the consumer
+
+Shall be required to deposit in advance the
+
+with other charges as Stipulated in the Tariff Order.
+
+LT-IX: Electric Vehicle Charging kw 0 6.00
+Stations
+High Tension
+HT-I(A): Industry General
+11 kV kVA 500 7.65
+33 kV kVA 500 7.15
+132 kV and above kVA 500 6.65
+HT-I(A): Lights and Fans
+11 kV 7.65
+33 kV 7.15
+132 kV and above 6.65
+HT-I(A): Poultry Farms
+11 kV kVA 500 7.65
+33 kV kVA 500 7.15
+HT-I(A): Industrial Colonies
+11 kV 7.30
+33 kV 7.30
+132 kV and above 7.30
+HT-I(A): Seasonal Industries
+11 kV kVA 500 8.60
+33 kV kVA 500 7.90
+132 kV and above kVA 500 7.70
+HT-I(A): Optional Category with CMD Up to 150 kVA
+11 kV kVA 100 8.00
+
+HT-I(B): Ferro Alloys
+
+243
+
+
+
+=== Page 3 ===
+Category Fixed/Demand Charge Energy Charge
+Unit Rs./Unit/month (Rs./Unit)
+11 kV kVA 500 7.65
+33 kV kVA 500 7.15
+132 kV and above kVA 500 6.65
+HT-II(A) OTHERS
+11 kV kVA 500 8.80
+33 kV kVA 500 8.00
+132 kV and above kVA 500 7.80
+HT-II(B) Wholly Religious Places
+11 kV kVA 285 5.00
+33 kV kVA 285 5.00
+132 kV and above kVA 285 5.00
+HT-IIl Airports, Railway stations and Bus stations
+11 kV kVA 500 8.50
+33 kV kVA 500 7.85
+132 kV and above kVA 500 745
+HT-IV(A) Irrigation and Agriculture
+11 kV kVA 300 6.30
+33 kV kVA 300 6.30
+132 kV and above kVA 300 6.30
+HT-IV(B) CPWS Schemes
+11 kV kVA 6.10
+33. kV kVA 6.10
+132 kV and above kVA 6.10
+HT-V(A) Railway Traction kVA 500 5.05
+HT-V(B) HMR kVA 500 4.95
+HT-VI Townships & Residential Colonies
+11 kV kVA 285 7.30
+33 kV kVA 285 7.30
+132 kV and above kVA 285 7.30
+HT-VIl: Temporary
+11 kV kVA 500 11.80
+33 kV kVA 500 11.00
+132 kV and above kVA 500 10.80
+For HT-Vil Temporary Supply, the consumer shall be required to deposit in
+
+advance theestimated consumption charge.
+
+the Tariff Order.
+
+Ss along with other charges as stipulated in
+
+HT-VIll: RESCO
+
+11 kV 477
+HT-IX: Electric Vehicle
+
+Charging Stations
+
+11 kV kVA 100 6.00
+33 kV kVA 100 6.00
+132 kV and above kVA 100 6.00
+
+Terms & Conditions
+
+1) Time of Day (TOD) Tariff/incentive:
+
+Applicability:
+
+The following Time of Day (TOD) Tariffs are applicable for
+
+categories viz.,
+vii. | HT-I(A) Industry G
+viii.
+
+eneral;
+
+HT-I(A) Poultry Farms;
+
+244
+
+
+
+=== Page 4 ===
+ix. | HT-II(A) Others;
+
+x. _ HT-II(B) Wholly Religious Places;
+
+xi. HT-III Airports, Railway stations and Bus Stations
+xii. | HT-IX Electric Vehicle Charging Stations;
+
+Description During the Period |ToD Tariff over Retail Supply Energy
+Charges for FY 2024-25
+Time of Day 6 am to 10 am and :
+(TOD)Tariff 6 pm to 10 pm Plus Re. 1/unit
+Time of Day .
+(TOD)Tariff 10 pm to 6 am Less Re.1.50/unit
+
+2) Fuel Surcharge Adjustment (FSA)/Fuel Cost Adjustment (FCA) will be extra
+as per Regulation No.1 of 2023 as amended from time to time.
+
+3) The Tariffs are exclusive of the Electricity duty payable as per the provisions of
+the Telangana State Electricity Duty Act ,1939 as amended from time to time.
+
+4) Voltage of Supply: The voltage at which supply has to be availed by the
+consumers as per the GTCS notified by the Commission and as amended from
+time to time.
+
+5) Additional Charges for Maximum Demand exceeding the Contracted
+
+Demand
+
+~—
+
+In case, in any month the Recorded Maximum Demand (RMD) of the consumer
+exceeds his Contracted Demand with the Licensee, the consumer shall pay the
+following charges on excess demand recorded and on the entire energy
+consumed.
+
+RMD over CMD Demand charges on Energy charges on full
+excess demand energy
+
+100 to 120% 2 times of normal charge _|Normal
+
+Above 120% and 1.15 times of normal
+
+lupto 200% 2 times of normal charge charge
+
+1.20 times of normal
+charge
+
+More than 200% 2 times of normal charge
+
+In case of HT-V(A) and HT-V(B): Railway Traction and HMR, the energy
+charges shall be computed at 1.05 times of normal charges on the entire
+
+consumption, if RMD exceeds 120% of Contracted Demand.
+
+6) Minimum Charges
+
+Category Rates for FY 2024-25
+
+LT-categories
+
+LT-I(A) Domestic Contracted Load of 1000 Watts andbelow
+Single Phase
+
+LT-I(B)(i) Contracted Load of above 1000Watts
+Single Phase
+
+LT-I(B)(ii) Three Phase
+
+245
+
+
+=== Page 5 ===
+Category Rates for FY 2024-25
+LT-II(A) & II(B) Non-Domestic/ Single Phase Rs.50/month
+Commercial Three Phase Rs.100/month
+
+LT-Il(C) Advertisement Rs.300/month
+Hoardings
+
+LT-II(D) Single Phase Rs.65/month
+Three Phase Rs.200/month
+
+LT-VI(A) Street Lighting Panchayats Rs.2/point/month
+Municipalities and Rs.6/point/month
+Municipal
+Corporations
+
+LT-VII(A) General Purpose Single Phase Rs.50/month
+Three Phase Rs.150/month
+
+LT-VIII Temporary Supply Rs.125 per kW or part thereof of the
+contracted load for first 30 days or part
+thereof and for every subsequent period of
+15 days or part thereof a charge of Rs.75 per
+kW.
+
+LT-IX EV Chargingstation Single Phase Rs.65/month
+
+Three Phase Rs.200/month
+
+HT Categories
+
+Billing Demand
+
+Billing Demand shall be maximum demand
+recorded during the month or 80% of the
+contracted demandwhichever is higher except|
+HT-IV(A) and HT-VI
+For HT-IV(A) (Lift Irrigation), during the
+operational months July to November, Billing
+Demand shall be maximum demand recorded
+during the month or 80% of the contracted
+demandwhichever is higher and,
+
+during the non-operational months December|
+to June, Billing Demand shall be maximum
+demand recorded during the month or 25% of|
+the contracted demand whichever ishigher
+For HT-VI (Township and _ Residential
+Colonies), the billing demand is Actual
+Demand Recorded)
+
+Minimum Energy Charges
+
+HT-I(A) Industry-General 50 kVAh per kVA of billing demandper month
+HT-I(B) Ferro Alloy units 50 KVAh per kVA of billing demandper month
+HT-II(A) Others 25 kVAh per kVA of billing demandper month
+HT-II(B) Wholly Religious Places |25 kVAh per kVA of billing demandper month
+HT-III Airports, Railwaystations /50 kVAh per kVA of billing demandper month
+
+and Busstations
+
+HT-V(A) &V(B)
+
+Railway Traction &HMR
+
+32 kVAh per kVA of ContractedDemand per
+month
+
+HT-VI Townships & Residential |Billing Demand shall be Actual
+Colonies Recorded Demand.
+25 kVAh per kVA of contracteddemand per
+month.
+HT-IX EV Charging station 25 kVAh per kVA of contracteddemand per
+
+month.
+
+246
+
+
+=== Page 6 ===
+7) Customer Charges
+
+Consumer Category Rs. / Month
+Low Tension
+LT-I: Domestic (units/month)
+0-50 40
+51-100 70
+101-200 90
+201-300 100
+301-400 120
+401-800 140
+Above 800 units 160
+LT-II(A&B): Non-Domestic/Commercial (units/month)
+0-50 50
+51-100 90
+101-300 105
+301-500 120
+Above 500 units 160
+LT-II(C): Advertisement Hoardings 160
+LT-II(D) Haircutting Salons with consumption upto 200 units per month
+0-50 45
+51-100 55
+101-200 65
+LT-lll: Industry up to 20 HP 100
+LT-lll: Industry 21-50 HP 350
+LT-IIl: Industry 51-125 HP 1200
+LT-IV: Cottage Industries 50
+LT-V: Agriculture 30
+LT-VI: Street Lighting & PWS 120
+LT-VII: General Purpose 100
+LT-VIII: Temporary Supply 100
+LT-IX: EV Charging station 120
+High Tension
+IHT consumers at 11 kV 2000
+HT consumers at 33 kV 3500
+HT consumers at 132 kV and above 5000
+
+8) Delayed Payment Surcharge (DPS)
+LT-Category
+
+a) In case of LT-I(A), LT-I(B), LT-II(A), LT-II(D), LT-IV and LT-V(B), if
+payment is made after due date, the consumers are liable to pay,
+Delayed Payment Surcharge (DPS) per month on the bill amount at the
+rates given in table below:
+
+LT-I(A) Rs.10 per month}
+LT-I(B), LT-II(A), LT-II(D), LT-IV and LT-V(B) Rs.25 per month|
+
+247
+
+
+=== Page 7 ===
+9)
+
+b) In case of LT-II(B), LT-II(C), LT-IIl, LT-VI, and LT-VII, and LT-IX the
+Licensee shall levy Delayed Payment Surcharge (DPS) on the bill
+
+amount at the rate of 5 paise/Rs.100/day calculated from the due date
+
+mentioned on the bill, up to the date of payment or Rs.150 whichever is
+
+higher. In case of grant of installments, the Licensees shall levy interest
+
+at the rate of 18% per annum on the outstanding amounts compounded
+
+annually and the two (DPS and interest) shall not be levied at the same
+
+time.
+
+HT Category
+
+The Licensees shall charge the Delayed Payment Surcharge (DPS) per month
+
+on the bill amount at the rate of 5 paise/Rs.100/day or Rs.550 whichever is
+
+higher. In case of grant of installments, the Licensee shall levy interest at the
+
+rate of 18% per annum on the outstanding amounts, compounded annually and
+
+the two charges shall not be levied at the same time.
+
+Reconnection Charges
+
+Low Tension services
+
+LT-I(A) Rs.25
+Overhead LT services Rs.75
+U.G. services Rs.200
+High Tension service
+11 kV Rs.1000
+33 kV Rs.2000
+132 kV and above Rs.3000
+10) Testing Charges
+Installation LT HT
+The first test and inspection of a new installation or ofan Nil Nil
+extension to an existing installation
+Charges payable by the consumer in advance for each Rs.20 Rs.200
+subsequent test and/or inspection if found necessary owing to
+any fault in the installation or to
+non-compliance of the conditions of supply
+Meter
+A.C. Single Phase Energy meter Rs.100
+A.C. Three Phase Energy meter Rs.300
+LT Tri Vector meter Rs.2000
+11 kV Rs.3000
+33 kV Rs.3000
+
+248
+
+
+
+=== Page 8 ===
+11)
+
+12)
+
+13)
+
+14)
+
+15)
+
+16)
+
+Installation
+
+LT
+
+HT
+
+132 kV and above
+
+Rs.3000
+
+Transformer oil
+
+Each sample of oil
+
+Rs.150 per sample
+
+Supervision/ Inspection and Checking Charges
+
+For LT-I(A) Domestic Rs.100
+For LT-I(B) Domestic Rs.100
+LT-V Agricultural Rs.100
+For all other LT Categories Rs.100
+For all HT Categories Rs.600
+
+Low Power Factor Charges: For all consumer categories where kVAh billing
+
+is done, no Low Power Factor surcharge shall be levied.
+
+Capacitor Surcharge: LT consumers (except
+
+LT-l
+
+having connected loads mentioned in table below shall pay capacitor
+
+Domestic)
+
+surcharge (as per rules in vogue) at the rate of 25% of the billed amount, if
+
+capacitors are found defunct.
+
+Category Connected Load
+LT-II and LT-VII(A) < 10 kW
+LT-IIl and LT-VI(B) < 13 HP
+
+Fixed Charges — Seasonal Industries:
+LT-Ill: Rs.75/kW/month on 30% contracted load.
+
+HT: Demand Charges — 30% of CMD or recorded demand whichever is
+
+higher.
+
+Temporary Supply for LT and HT Consumers: Temporary supply can be
+
+given initially for a period up to one year as per the tariff applicable under
+
+temporary supply category. After the expiry of one year, the consumer is at
+
+liberty to seek further extension.
+
+Green Tariff: Green Tariff of Rs.0.66/unit which is over and above the normal
+
+tariff of respective category shall be levied on the energy consumption for the
+
+period for which the consumer as opted for Green tariff. The Green tariff is
+
+extended to all categories of consumers both HT & LT, who opt for it.
+
+249
+
