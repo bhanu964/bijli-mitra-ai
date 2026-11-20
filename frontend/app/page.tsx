@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState, useEffect, useMemo, useRef } from "react";
+import Link from "next/link";
 import {
   Zap,
   FileText,
@@ -414,6 +415,16 @@ export default function BijliMitraApp() {
 
             {/* Helpline & Language Toggle */}
             <div className="flex items-center space-x-2 shrink-0">
+              {/* Executive Pitch Deck */}
+              <Link
+                href="/pitch-deck"
+                className="flex items-center space-x-1 text-xs bg-emerald-900/90 hover:bg-emerald-800 text-amber-300 font-bold px-2.5 py-1.5 rounded-xl border border-amber-400/30 shadow-xs transition-all active:scale-95"
+                title="View Telangana Govt Challenge 13 Pitch Deck"
+              >
+                <Award className="w-3.5 h-3.5 text-amber-400" />
+                <span className="hidden sm:inline">Pitch Deck</span>
+              </Link>
+
               {/* 24x7 Helpline */}
               <a
                 href="tel:1912"
